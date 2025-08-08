@@ -1,0 +1,5 @@
+requests
+instagrapi
+aiohttp
+lxml
+asyncio
